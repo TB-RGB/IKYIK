@@ -44,5 +44,5 @@
   // Set canvas rendering style to 'auto'
   document.getElementsByTagName('canvas')[0].style['imageRendering'] = 'auto'
 
-
+// ritsche
 })().catch((err) => log(err.message, 'log-error'))
